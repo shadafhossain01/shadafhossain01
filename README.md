@@ -1,10 +1,10 @@
 ![Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGva6_RNkOj3g/profile-displaybackgroundimage-shrink_200_800/0/1639462550693?e=1645056000&v=beta&t=Rw2KKkKUImFubEKQ97xo5LAbOGFn-Qq1Wf6R6_AnNK0)
 
 #     <h1 align="center"> Hi, I'M Shadaf Hossain</h1>
-#### Full Stack Web Developer
+####        <h1 align="center">  Full Stack Web Developer</h1>
 
 
-I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. Most of the time I work with WordPress but some technologies I enjoy working with include HTML, JavaScript, Bootstrap, CSS as well as PHP.
+I'm a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. Most of the time I work with WordPress but some technologies I enjoy working with include HTML, JavaScript, Bootstrap, CSS as well as PHP.
 
 Skills: bootstrap / JS / HTML / CSS/ Tailwind CSS/ PHP/ Wordpress
 
