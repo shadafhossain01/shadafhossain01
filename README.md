@@ -9,10 +9,12 @@ Knock me: https://www.facebook.com/shadafhossain01
 
 Skills:  HTML / CSS/ bootstrap / JS / PHP/ Wordpress
 
-- - 👯 I’m looking to collaborate on GitHub 
-- - 💬 Ask me about Web Development 
-- - 👨‍💻 All of my projects are available at [https://github.com/shadafhossain01](https://github.com/shadafhossain01)
-- - 📫 How to reach me **shadafhossain01@gmail.com**
+
+
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 👨‍💻 All of my projects are available at [https://github.com/shadafhossain01](https://github.com/shadafhossain01)
+- 📫 How to reach me **shadafhossain01@gmail.com**
 
 
   
