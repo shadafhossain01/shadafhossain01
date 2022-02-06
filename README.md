@@ -4,13 +4,15 @@
 ####        <h1 align="center">  Full Stack Web Developer</h1>
 
 
-I'm a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. Most of the time I work with WordPress but some technologies I enjoy working with include HTML, JavaScript, Bootstrap, CSS as well as PHP.
+I'm a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. 
+Knock me: https://www.facebook.com/shadafhossain01
 
-Skills: bootstrap / JS / HTML / CSS/ Tailwind CSS/ PHP/ Wordpress
+Skills:  HTML / CSS/ bootstrap / JS / PHP/ Wordpress
 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-
+- - 👯 I’m looking to collaborate on GitHub 
+- - 💬 Ask me about Web Development 
+- - 👨‍💻 All of my projects are available at [https://github.com/shadafhossain01](https://github.com/shadafhossain01)
+- - 📫 How to reach me **shadafhossain01@gmail.com**
 
 
   
@@ -41,9 +43,7 @@ Skills: bootstrap / JS / HTML / CSS/ Tailwind CSS/ PHP/ Wordpress
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
