@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://cdn-elopl.nitrocdn.com/xIKCCVMwtQOFnWoAcTWaORTLdXYsHBGF/assets/static/optimized/rev-4db8441/wp-content/uploads/2022/02/1639462550693.jpg)
+
 
 #    <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'M Shadaf Hossain</h1>
 ####  <h3 align="center"> Full Stack Web Developer</h3>
