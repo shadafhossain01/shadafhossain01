@@ -23,7 +23,7 @@ I'm a Full Stack Web developer passionate about making error-free websites with 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadafhossain01](https://github.com/shadafhossain01)
 
-- 📫 How to reach me **shadafhossain01@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/shadafhossain01/**
 
 
 
