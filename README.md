@@ -1,6 +1,6 @@
 
 
-#    <h1 align="center" style="color:#fff ;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shadaf Hossain 👋 </h1>
+#    <h1 align="center" style="color:#34e7e4 ;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shadaf Hossain 👋 </h1>
 ####  <h3 align="center"> Full Stack Web Developer</h3>
 
 
