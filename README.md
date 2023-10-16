@@ -84,6 +84,14 @@ I'm a Full Stack Web developer passionate about making error-free websites with 
 
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadafhossain01&show_icons=true&locale=en&layout=compact" alt="shadafhossain01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&locale=en" alt="shadafhossain01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadafhossain01&" alt="shadafhossain01" /></p>
+
+
+
 
  
 ## ☕ Connect With Me!
