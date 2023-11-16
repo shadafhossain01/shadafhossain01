@@ -4,8 +4,6 @@
 
 
 #    <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shadaf Hossain 👋 </h1>
-####  <h3 align="center"> Full Stack Web Developer</h3>
-
 
 
 ## 🚀 About Me :
