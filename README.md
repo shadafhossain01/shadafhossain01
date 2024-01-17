@@ -43,10 +43,28 @@ I'm a Full Stack Web developer passionate about making error-free websites with 
 
 
 <h2 align="left"> 🌐 Connect With Me :</h2>
-<p align="left">
-<a href="https://www.facebook.com/shadafhossain01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shadafhossain01" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/shadafhossain01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadafhossain01/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shadafhossain01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shadafhossain01/" height="30" width="40" /></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/shadafhossain01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/shadafhossain01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/+8801715536402" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/shadafhossain01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:shadafhossain01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.behance.net/shadafhossain01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="35" alt="behance logo"  />
+  </a>
+</div>
 
+###
 
 </p>
 
