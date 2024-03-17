@@ -1,5 +1,5 @@
 
-<img src="image/shadafhossain.png" height="300px" >
+<img src="image/shadafhossain.png" height="300px" width="60%" >
 
 
 
