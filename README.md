@@ -8,7 +8,7 @@
 
 ## 🚀 About Me :
 
-I'm a Full Stack Web developer passionate about making error-free websites with 100% client satisfaction. <br>
+I'm a Mern Stack Web developer passionate about making  websites with 100% client satisfaction. <br>
 
 
 
@@ -19,7 +19,7 @@ I'm a Full Stack Web developer passionate about making error-free websites with 
 
 - 👯 I’m looking to collaborate on GitHub 
 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development & Programming
 
 - 👨‍💻 All of my projects are available at [https://behance.com/shadafhossain01](https://www.behance.net/shadafhossain01)
 
