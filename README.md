@@ -8,11 +8,7 @@
 
 ## 🚀 About Me :
 
-<h3 align="center">Programmer | MERN Stack Web Developer & WordPress Developer | SEO Specialist </h3> <br>
-
-
-
-
+<h4 align="center">Programmer | MERN Stack Web Developer & WordPress Developer | SEO Specialist </h4> <br>
 
 
 
