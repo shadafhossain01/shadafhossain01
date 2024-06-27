@@ -8,8 +8,8 @@
 
 ## 🚀 About Me :
 
-Programmer | MERN Stack Web Developer & WordPress Developer | SEO Specialist <br>
-I am making Websites with 100% client satisfaction. 
+<h3 align="center">Programmer | MERN Stack Web Developer & WordPress Developer | SEO Specialist </h3> <br>
+
 
 
 
