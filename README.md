@@ -8,7 +8,8 @@
 
 ## 🚀 About Me :
 
-I'm a Mern Stack Web developer passionate about making  websites with 100% client satisfaction. <br>
+Programmer | MERN Stack Web Developer & WordPress Developer | SEO Specialist <br>
+I am making Websites with 100% client satisfaction. 
 
 
 
