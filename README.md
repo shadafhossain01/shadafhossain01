@@ -98,7 +98,7 @@
   <a href="https://www.facebook.com/shadafhossain01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/+8801715536402" target="_blank">
+  <a href="http://wa.link/duufi7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/shadafhossain01/" target="_blank">
