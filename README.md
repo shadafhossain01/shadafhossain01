@@ -78,7 +78,7 @@
 
 <br>
 
-## ![image](https://github.com/user-attachments/assets/3389c19f-fc87-4efe-9d19-6330a633af1c) Github Stats
+## ![image](https://ibb.co.com/YWKMWXX) Github Stats
 
  ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github)
 
