@@ -77,8 +77,8 @@
 
 
 <br>
-
-## ![image] (9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGBSURBVDiNpZPPahNRFIe) Github Stats
+  
+<h2 align="left"> 📊 Github Stats :</h2>
 
  ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github)
 
