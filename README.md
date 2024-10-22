@@ -79,13 +79,9 @@
 <br>
 
 
-
+ ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github)
 
  <div align="left">
- ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github) <br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadafhossain01&hide_progress=true&theme=highcontrast)
-
- <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadafhossain01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=darcula&hide_border=false&order=2" height="229" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=shadafhossain01&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=22&order=3" height="210" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadafhossain01&radius=16&theme=vue&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
