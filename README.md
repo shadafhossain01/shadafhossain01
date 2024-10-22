@@ -82,7 +82,7 @@
 
 
  <div align="left">
- ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github)
+ ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github) <br>
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadafhossain01&hide_progress=true&theme=highcontrast)
 
  <br>
