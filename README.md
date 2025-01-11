@@ -80,12 +80,12 @@
 <h2 align="left"> 📊 Github Stats :</h2>
 
  ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github)
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shadafhossain01)  
  <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadafhossain01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=darcula&hide_border=false&order=2" height="229" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadafhossain01&radius=16&theme=vue&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shadafhossain01)  
+
 ###
 
 
