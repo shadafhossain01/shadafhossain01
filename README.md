@@ -97,7 +97,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-   <img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle.png" alt="firebase" width="40" height="40"/> 
+   <img src="https://ibb.co.com/0prb76gj" alt="firebase" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" height="40" alt="xd logo"  /> 
  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
