@@ -3,8 +3,7 @@
 
 
 ## 🚀 About Me 
-<h3 align="center"> Hi, I'm Shadaf Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"> </h3>
-  <h3 align="center" >   Programmer | MERN Stack Web & WordPress Developer   </h3>
+  <h3 align="center" >   Programmer | MERN Stack Web & WordPress Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">   </h3>
 
 
    
