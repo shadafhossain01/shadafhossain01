@@ -101,7 +101,7 @@
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" height="40" alt="xd logo"  /> 
  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  /> 
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://c0.klipartz.com/pngpicture/490/140/sticker-png-computer-icons-e-commerce-woocommerce-wordpress-social-media-icon-bar-link-purple-violet-text-retail-logo.png" alt="WooCommerce" height="50" /></a> 
+<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://toppng.com/public/uploads/preview/woocommerce-logo-11609383002t2vrfxk1rt.png" alt="WooCommerce" height="50" /></a> 
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 </div>
 
