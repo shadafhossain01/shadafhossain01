@@ -17,7 +17,7 @@
 
 <h3> - 🔭 I’m searching - For better opportunities. </h3>
 <h3> - 👯 I’m looking to collaborate on open source projects. </h3>
-<h3> - 💬 Ask me about Web Development & Programming  </h3>
+<h3> - 💬 Ask me anything about Web Development & Programming  </h3>
 <h3> - 👨‍💻 All of my projects are available at https://www.behance.net/shadafhossain01  </h3>
 <h3> - 📫 How to reach me https://www.linkedin.com/in/shadafhossain01/ </h3>
 
@@ -65,10 +65,11 @@
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
+<img  alt="JavaScript" height ="42px"  src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"> 
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /> </a>  
-<img  alt="JavaScript" height ="42px"  src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
+<a href="https://ui.shadcn.com/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="35" alt="shadcn logo"  /> </a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Sass" height="40" /></a>    
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
@@ -94,10 +95,11 @@
 
 ### Others  
 <div align="center">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-   <img src="https://icon2.cleanpng.com/20190529/bwt/kisspng-firebase-cloud-messaging-google-cloud-messaging-ap-1713889910707.webp" alt="firebase" width="40" height="40"/> 
+   <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" alt="firebase" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" height="40" alt="xd logo"  /> 
  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  /> 
