@@ -142,8 +142,7 @@
  ![Shadaf GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafhossain01&show_icons=true&theme=highcontrast&rank_icon=github)
 
  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadafhossain01&locale=en&hide_title=false&layout=compact&card_width=470&langs_count=10&theme=darcula&hide_border=false&border=2&hide_progress=true" height="240" alt="languages graph" /> <br>
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadafhossain01&locale=en&hide_title=false&layout=compact&card_width=470&langs_count=7&theme=highcontrast&hide_border=false&border=2" height="230" alt="languages graph" /> <br>
 </div>
 
 ###
