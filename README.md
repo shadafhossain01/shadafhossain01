@@ -2,9 +2,19 @@
 <img src="image/shadafhossain.jpg" width="100%" height="200px">
 
 
-## 🚀 About Me 
-  <h3 align="center" >   Programmer | Full Stack Web & WordPress Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">   </h3>
+## 🙋‍♂️ About Me 
+<h3 align="center">
+  Hey, I’m <span style="color:#FF6347;">Shadaf</span>!  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋"/> 
+</h3>
 
+<h3 align="center">
+  A passionate developer turning ideas into code, one line at a time 🎯🚀 
+</h3>
+
+<h4 align="center">
+    👨‍💻 Programmer &nbsp;|&nbsp; 🌐 Full Stack Web Developer &nbsp;|&nbsp; 🎨 WordPress Enthusiast
+</h4>
 
    
 <br>
@@ -13,126 +23,52 @@
 
 ## :eyes: Current overview
 
- <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="350px"  />
+ <img align="right" src="https://s3.ezgif.com/tmp/ezgif-385984ed96e64f.gif" width="250px"  />
 
-<h3> - 🔭 I’m searching - For better opportunities. </h3>
-<h3> - 👯 I’m looking to collaborate on open source projects. </h3>
-<h3> - 💬 Ask me anything about Web Development & Programming  </h3>
-<h3> - 👨‍💻 All of my projects are available at https://www.behance.net/shadafhossain01  </h3>
-<h3> - 📫 How to reach me https://www.linkedin.com/in/shadafhossain01/ </h3>
-
-
-  
- 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
+<h4> - 🔭 I’m currently exploring better opportunities where I can learn, grow & contribute. </h4>
+<h4> - 👯 Open to collaborating on exciting open-source projects and innovative ideas. </h4>
+<h4> - 💬 Passionate about Web Development & Programming – feel free to ask me anything! </h4>
+<h4> - 🎯 To build real-world projects that combine creativity with performance ⚡ </h4>
+<h4> - 👨‍💻 Check out my work & projects here 👉 <a href="https://www.behance.net/shadafhossain01/">Behance Portfolio</a> </h4>
+<h4> - 📫 Let’s connect on <a href="https://www.linkedin.com/in/shadafhossain01/">LinkedIn</a> </h4>
 
 
 
 <br>
 
 
-###
-
-
-
-
-
-
 
 ## 👨🏽‍💻 My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-<div>
+<table style="width:100%;"><tr><td valign="top" width="33.33%">
 
 
 
-### Frontend  
+### 💻 Frontend  
 <div align="center">  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
-<img  alt="JavaScript" height ="48px"  src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"> 
-  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Sass" height="35" /></a>    
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"> <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /> </a>   
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="35" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  /> </a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,bootstrap,react,redux,nextjs,ts&theme=dark&perline=5"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33.33%">
 
 
 
-### Backend  
+### ⚙️ Backend  
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
- <img width="40" height="40" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" width="60" height="60  />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> </a>
-  <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="40" /></a>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" alt="socketio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,prisma,redis,nginx,aws&theme=dark&perline=5"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33.33%">
 
 
 
-### Others  
+### 🛠️ Others  
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" height="40" alt="xd logo"  /> 
- <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  /> 
+ <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,postman,figma,xd,c,wordpress&theme=dark&perline=5"/>
 </div>
 
 </td></tr></table>  
 
   
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <br>
@@ -179,5 +115,5 @@
 </div>
 
 
-## ✉ For Contact :
+## <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="28px"/>  For Contact :
 <h3>👉 shadafhossain01@gmail.com</h3>
