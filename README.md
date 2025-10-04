@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me 
 <h3 align="center">
-  Hey, I’m <span style="color:#FF6347;">Shadaf</span>!  
+  Hey, I’m Shadaf!  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋"/> 
 </h3>
 
@@ -23,7 +23,7 @@
 
 ## :eyes: Current overview
 
- <img align="right" src="https://s3.ezgif.com/tmp/ezgif-385984ed96e64f.gif" width="250px"  />
+ <img align="right" src="image/type.gif" width="250px"  />
 
 <h4> - 🔭 I’m currently exploring better opportunities where I can learn, grow & contribute. </h4>
 <h4> - 👯 Open to collaborating on exciting open-source projects and innovative ideas. </h4>
