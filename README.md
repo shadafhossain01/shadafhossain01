@@ -23,14 +23,13 @@
 
 ## :eyes: Current overview
 
- <img align="right" src="image/type.gif" width="250px"  />
 
-<h4> - 🔭 I’m currently exploring better opportunities where I can learn, grow & contribute. </h4>
-<h4> - 👯 Open to collaborating on exciting open-source projects and innovative ideas. </h4>
-<h4> - 💬 Passionate about Web Development & Programming – feel free to ask me anything! </h4>
-<h4> - 🎯 To build real-world projects that combine creativity with performance ⚡ </h4>
-<h4> - 👨‍💻 Check out my work & projects here 👉 <a href="https://www.behance.net/shadafhossain01/">Behance Portfolio</a> </h4>
-<h4> - 📫 Let’s connect on <a href="https://www.linkedin.com/in/shadafhossain01/">LinkedIn</a> </h4>
+<h3> - 🔭 I’m currently exploring better opportunities where I can learn, grow & contribute </h3>
+<h3> - 👯 Open to collaborating on exciting open-source projects and innovative ideas </h3>
+<h3> - 💬 Passionate about Web Development & Programming  </h3>
+<h3> - 🎯 To build real-world projects that combine creativity with performance  </h3>
+<h3> - 👨‍💻 Check out my work & Projects here 👉 <a href="https://www.behance.net/shadafhossain01/">Behance Portfolio</a> </h3>
+<h3> - 📫 Let’s connect on <a href="https://www.linkedin.com/in/shadafhossain01/">LinkedIn</a> </h3>
 
 
 
